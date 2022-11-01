@@ -1,0 +1,6 @@
+Portion of ground coffee	7 ± 0.5 g (0.25 ± 0.02 oz)
+Exit temperature of water from unit	88 ± 2 °C (190 ± 4 °F)
+Temperature in cup	67 ± 3 °C (153 ± 5 °F)
+Entry water pressure	9 ± 1 bar (900 ± 100 kPa; 131 ± 15 psi)
+Percolation time	25 ± 5 seconds
+Volume in cup (including crema)	25 ± 2.5 ml (0.88 ± 0.09 imp fl oz; 0.85 ± 0.08 US fl oz)
